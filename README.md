@@ -1,3 +1,3 @@
 # Заметки по Python, включая Machine Learning
 
-* [Базовый Python](base_python.md)
+* [Базовый Python](BasePython.md)
